@@ -1,0 +1,23 @@
+
+---
+
+### **2. 37_EndpointEchoTracker**  
+**Description:**  
+Watches HTTP endpoints for latency, availability, and error responses with echo-style feedback logging.
+
+#### **README.md**
+```markdown
+# EndpointEchoTracker - Batch API Health Scanner
+
+EndpointEchoTracker provides real-time visibility into service responsiveness for internal or external APIs.
+
+## Features
+- Logs latency + status  
+- Works with large endpoint lists  
+- Export to CSV / JSON  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_EndpointEchoTracker.git
+cd 37_EndpointEchoTracker
+python monitor.py
