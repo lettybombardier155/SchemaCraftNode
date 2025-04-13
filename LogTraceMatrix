@@ -1,0 +1,23 @@
+
+---
+
+### **3. 37_LogTraceMatrix**  
+**Description:**  
+Parses logs to find repeated patterns, keyword spikes, and timestamp-based bursts in matrix format.
+
+#### **README.md**
+```markdown
+# LogTraceMatrix - Frequency & Burst Log Visualizer
+
+LogTraceMatrix scans logs and surfaces clusters of repeating entries using frequency and timing analysis.
+
+## Features
+- Repetition heatmap  
+- Burst detection  
+- CLI with keyword filters  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_LogTraceMatrix.git
+cd 37_LogTraceMatrix
+python analyze.py logs/system.log
