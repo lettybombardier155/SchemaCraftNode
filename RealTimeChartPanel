@@ -1,0 +1,23 @@
+
+---
+
+### **4. 37_RealTimeChartPanel**  
+**Description:**  
+Visualizes streaming numeric data in a clean, real-time updating chart layout.
+
+#### **README.md**
+```markdown
+# RealTimeChartPanel - Live Data Visualization Tool
+
+RealTimeChartPanel turns incoming values into a smooth, auto-scrolling chart for dashboards or metric feeds.
+
+## Features
+- Real-time line chart  
+- Adjustable refresh speed  
+- Scrollable history  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_RealTimeChartPanel.git
+cd 37_RealTimeChartPanel
+python visualize.py
